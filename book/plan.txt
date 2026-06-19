@@ -1,0 +1,8 @@
+01 parallel-computing-patterns
+02 mpi4py-collective-patterns
+03 openmp-numba-on-mac
+04 cupy-cuda-first-steps
+05 slurm-mini-cluster
+06 kubernetes-jobs-and-mpi-operator
+07 pytorch-ddp-minimal
+08 netket-small-systems
